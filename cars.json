@@ -1,0 +1,15 @@
+[
+    { 
+        "regnr": "UZL094",
+        "brand": "VOLKSWAGEN",
+        "model": "GOLF",
+        "Price": 45000
+    }, 
+    { 
+        "regnr": "BBW990",
+        "brand": "AUDI",
+        "model": "RS6",
+        "Price": 230000
+    }
+
+]
